@@ -3,8 +3,8 @@ Xposed kotlin extension.
 
 [![](https://jitpack.io/v/ikws4/xposed-ktx.svg)](https://jitpack.io/#ikws4/xposed-ktx)
 
-## Gradle Dependency
-Add it in your root build.gradle at the end of repositories:
+## Getting start
+Step 1. Add the JitPack repository to your build file
 ```gradle
 allprojects {
   repositories {
@@ -13,7 +13,7 @@ allprojects {
    }
 }
 ```
-Add the dependency
+Step 2. Add the dependency
 ```gradle
 dependencies {
     implementation 'com.github.ikws4:xposed-ktx:latest-version'
