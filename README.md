@@ -101,3 +101,6 @@ className.replaceConstructor(classLoader,Context::class.java) { param ->
      // Do something
 }
 ```
+
+## [More](https://github.com/ikws4/xposed-ktx/blob/master/library/src/main/java/io/ikws4/library/xposedktx/XposedHelper.kt)
+
