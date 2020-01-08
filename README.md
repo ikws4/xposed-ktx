@@ -2,6 +2,7 @@
 Xposed kotlin extension.
 
 [![](https://jitpack.io/v/ikws4/xposed-ktx.svg)](https://jitpack.io/#ikws4/xposed-ktx)
+![](https://img.shields.io/github/license/ikws4/xposed-ktx)
 
 ## Getting start
 Step 1. Add the JitPack repository to your build file
